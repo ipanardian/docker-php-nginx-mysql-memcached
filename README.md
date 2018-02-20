@@ -1,2 +1,2 @@
-# docker-php-nginx-mysql-memcached
+# Docker for PHP Applications
 Docker running Nginx, PHP-FPM, MySQL &amp; Memcached
